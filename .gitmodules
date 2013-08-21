@@ -13,3 +13,9 @@
 [submodule "bundle/snipmate"]
 	path = bundle/snipmate
 	url = git://github.com/msanders/snipmate.vim
+[submodule "bundle/vim-yaml"]
+	path = bundle/vim-yaml
+	url = git://github.com/avakhov/vim-yaml
+[submodule "bundle/vim-haml"]
+	path = bundle/vim-haml
+	url = git://github.com/tpope/vim-haml
